@@ -20,7 +20,7 @@ padding: 6em
 
 ## About TransPacific Tides
 
-This  collection features objects from LACMA, the MET, and the Brooklyn Museum [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features objects from LACMA, the MET, and the Brooklyn Museum [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
