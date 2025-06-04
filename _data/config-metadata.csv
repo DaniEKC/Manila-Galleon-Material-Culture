@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
+artist,Artist,,,DCTERMS.artist,artist
+culture, Culture,,,DCTERMS.culture, culture
 date,Date Created,,,DCTERMS.date,dateCreated
+material, Material,,,DCTERMS.material, material
+size, Size,,,DCTERMS.size, size
+credit_line, Credit Line,,,,,
+source_collection, Location,,,
+accession_number,Accession Number,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
