@@ -21,5 +21,7 @@
             {{ page[f.field] | replace: '""','"' }}{% endif %}
         </dd>
         {% endif %}{% endfor %}
+        <dt class="field"> Accession Number</dt>
+        <dd class="field-value"><a href="{{ page.url }}">{{ page.accession_number }}</a></dd>
     </dl>
 </div>

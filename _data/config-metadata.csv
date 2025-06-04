@@ -7,7 +7,6 @@ material, Material,,,DCTERMS.material, material
 size, Size,,,DCTERMS.size, size
 credit_line, Credit Line,,,,,
 source_collection, Location,,,
-accession_number,Accession Number,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 source,Source,,,,
