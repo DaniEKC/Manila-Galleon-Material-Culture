@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
+artist, Artist
+culture, Culture
+date_display,Date
 description,Description
 subject,Subjects
