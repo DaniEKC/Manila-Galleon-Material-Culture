@@ -3,37 +3,48 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+# credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: ezor_002c
+about-featured-image: ezor_004a
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: About Unboxing Early Modern Latin America
 # paragraph text below heading in featured image
-sub-heading: 
+sub-heading: Exhibition Narrative
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About Unboxing Early Modern Latin America
+# Unboxing Early Modern Latin America
 
-This collection features objects from LACMA, the MET, and the Brooklyn Museum and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## Introduction
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Boxes are objects which at once extend and contain their makers’ and users’ contact with the world. Then as now, they traveled the globe, moving between cultures and amongst sellers, consumers, and collectors. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+With online shopping and shipping, they have proliferated in our world as symbols of consumerism, as fodder for YouTube and TikTok videos, and as useful nuisances, littering our landscapes though they have not occupied the same space in scholarly studies. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Usually an afterthought or even discarded entirely, boxes were often luxury goods themselves, made by skilled craftspersons with significant care and attention to detail. Boxes contain, store, hide, protect, wrap, package, and encase, but they can also reveal, expose, manifest, exhibit, and even release. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Here we turn attention to the box as a signifier and site of meaning. This collection features objects from [LACMA](https://www.lacma.org/), the [MET](https://www.metmuseum.org/), and the [Brooklyn Museum](https://www.brooklynmuseum.org/).
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="ezor_001b;ezor_001a" width="50" %}
+
+### Hide
+
+In this section, we consider how objects may hide. 
+
+### Reveal
+
+In this section, we look at how these containers reveal. 
+
+## Conclusion
+
+This exhibition aims to *lift the lid* of what is so often hidden away in the world or "ordinary things" to demonstrate how these objects, in their movement between concealing and revealing, are actually *extra*ordinary. 
+
+{% include feature/image.html objectid="ezor_003a" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
