@@ -18,14 +18,14 @@ source-code: https://github.com/DaniEKC/Manila-Galleon-Material-Culture
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: TransPacific Tides
+title: Unboxing Early Modern Latin American
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The Influence of the Manila Galleon Trade on the Material Culture of Early Modern Latin America
+tagline: Containers as Signifiers of Site and Meaning
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Transpacific Tides considers art objects from early modern Latin America that were influenced Asian trade goods arriving on the Manila Galleon"
+description: "Unboxing Latin America considers art objects from early modern Latin America that were used as containers as often overlooked areas of decorative arts."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: Latin America; early modern; colonial; material culture; decorative arts; Transpacific; Manila Galleon Trade
+keywords: Latin America; early modern; colonial; material culture; decorative arts; box
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: DaniEKC
 
