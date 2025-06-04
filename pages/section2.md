@@ -1,5 +1,5 @@
 ---
-title: Hide
+title: Reveal
 layout: about
 permalink: /section2.html
 # include CollectionBuilder info at bottom
