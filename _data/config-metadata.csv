@@ -2,13 +2,13 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 artist,Artist,,,DCTERMS.artist,artist
 culture, Culture,,,DCTERMS.culture, culture
-date,Date Created,,,DCTERMS.date,dateCreated
+date_display,Date,,,DCTERMS.date,dateCreated
 material, Material,,,DCTERMS.material, material
 size, Size,,,DCTERMS.size, size
-credit_line, Credit Line,,,,,
-source_collection, Location,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
+credit_line, Credit Line,,,,,
+source_collection, Location,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
 rightsstatement,,,,DCTERMS.rights,license
