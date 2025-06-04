@@ -32,15 +32,9 @@ Here we turn attention to the box as a signifier and site of meaning. This colle
 
 {% include feature/image.html objectid="ezor_001b;ezor_001a" width="50" %}
 
-### Hide
+This exhibition is divided into two sections: hide and reveal.
 
-In this section, we consider how objects may hide. 
-
-### Reveal
-
-In this section, we look at how these containers reveal. 
-
-## Conclusion
+## Goals
 
 This exhibition aims to *lift the lid* of what is so often hidden away in the world or "ordinary things" to demonstrate how these objects, in their movement between concealing and revealing, are actually *extra*ordinary. 
 

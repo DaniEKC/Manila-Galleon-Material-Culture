@@ -1,6 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
+About,,
+Exhibition Narrative,/about.html,About
+Section 1: Hide,/section1.html,About
+Section 1: Hide,/section2.html,About
 Subjects,/subjects.html,
 Timeline,/timeline.html,
 Data,/data.html,
