@@ -50,10 +50,10 @@ metadata: ezor_metadata_matcult
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Kenyon College"
+organization-link: https://www.kenyoncollege.edu/
+organization-logo-banner: https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png
+organization-logo-nav: https://www.kenyon.edu/files/resources/logotype_kenyon-bright-purple_rgb.png
 
 ##########
 # ROBOTS EXCLUDE
