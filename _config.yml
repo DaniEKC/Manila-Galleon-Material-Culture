@@ -10,9 +10,9 @@
 # site domain, full URL to the production location of your collection
 url: https://DaniEKC.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /Manila-Galleon-Material-Culture
+baseurl: /Unboxing-EMLA
 # location of code, the full url to your github repository
-source-code: https://github.com/DaniEKC/Manila-Galleon-Material-Culture
+source-code: https://github.com/DaniEKC/Unboxing-EMLA
 
 ##########
 # SITE SETTINGS
@@ -59,7 +59,7 @@ metadata: ezor_metadata_matcult
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
