@@ -51,9 +51,9 @@ metadata: ezor_metadata_matcult
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Kenyon College"
-organization-link: https://www.kenyoncollege.edu/
+organization-link: https://www.kenyon.edu/
 organization-logo-banner: https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png
-organization-logo-nav: https://www.kenyon.edu/files/resources/logotype_kenyon-bright-purple_rgb.png
+organization-logo-nav: https://www.kenyon.edu/files/resources/logotype_kenyon-white_rgb.png
 
 ##########
 # ROBOTS EXCLUDE
