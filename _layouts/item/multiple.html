@@ -8,23 +8,38 @@ gallery: true
 
 <div class="mb-4 text-center">
 
-<div id="carouselExample" class="carousel slide">
-  <div class="carousel-inner">
-     {% for child in children %}
-    <div class="carousel-item active">
-      <img src="{{ child.image_small | relative_url }}" class="d-block w-100" alt="{{ child.image_alt_text | default: child.description | default: child.title | default: page.title | escape }}">
+  <div class="card mb-3">
+    <div class="card-body">
+      <div id="multipleCarousel" class="carousel rounded mb-3 carousel-dark slide" data-bs-ride="carousel">
+        <div id="carouselIndicators" class="carousel-indicators">
+            {% for child in children %}
+            <button type="button" data-bs-target="#multipleCarousel" data-bs-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active" aria-current="true"{% endif %} maria-label="Slide {{ forloop.index0 }}"></button>
+            {% endfor %}
+        </div>
+        <div class="carousel-inner">
+          {% for child in children %}
+          <div class="carousel-item{% if forloop.first %} active{% endif %} py-2" style="height: 600px;">
+            <img src="{{ child.image_small | relative_url }}" alt="{{ child.image_alt_text | default: child.description | default: child.title | default: page.title | escape }}" class="d-block h-100 mx-auto lazyload">
+            {% if child.title %}
+            <div class="carousel-caption d-none d-md-block">
+              <h5>{{ child.title }}</h5>
+            </div>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#multipleCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#multipleCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
     </div>
-    {% endfor %}
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
+
 
     <div class="my-2">
 
