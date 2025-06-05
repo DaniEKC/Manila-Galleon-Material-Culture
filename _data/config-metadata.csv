@@ -8,7 +8,7 @@ size, Size,,,DCTERMS.size, size
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 credit_line, Credit Line,,,,,
-source_collection, Location,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
+source_collection, Location,,,,,
+source,Source,,,,,
+identifier,Source Identifier,,,,,
 rightsstatement,,,,DCTERMS.rights,license
