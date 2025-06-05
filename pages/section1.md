@@ -11,7 +11,7 @@ position: center
 # major heading to display over featured image
 heading: Hide
 # paragraph text below heading in featured image
-sub-heading: Exhibition Narrative
+sub-heading: Objects as Concealers
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 3em
 # Edit the markdown on in this file to describe your collection

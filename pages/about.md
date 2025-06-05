@@ -9,9 +9,9 @@ about-featured-image: ezor_004a
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: About Unboxing Early Modern Latin America
+heading: Unboxing Early Modern Latin America
 # paragraph text below heading in featured image
-sub-heading: Exhibition Narrative
+sub-heading: Containers as Signifiers and Sites of Meaning
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 3em
 # Edit the markdown on in this file to describe your collection
