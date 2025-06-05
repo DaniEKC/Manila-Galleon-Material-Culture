@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-layout: page-narrow
+layout: page
 permalink: /bibliography.html
 ---
 
