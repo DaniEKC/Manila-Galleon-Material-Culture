@@ -1,7 +1,7 @@
 ---
-title: Browse
+title: Gallery
 layout: browse
-permalink: /browse.html
+permalink: /gallery.html
 ---
 
-## Browse Items
+## Gallery
