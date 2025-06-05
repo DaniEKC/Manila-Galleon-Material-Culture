@@ -13,7 +13,7 @@ heading: About Unboxing Early Modern Latin America
 # paragraph text below heading in featured image
 sub-heading: Exhibition Narrative
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 4em
+padding: 3em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
