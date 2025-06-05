@@ -5,7 +5,7 @@ permalink: /ExhibitionNarrative.html
 # include CollectionBuilder info at bottom
 # credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: ezor_004a
+about-featured-image: ezor_014a
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
