@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/,
 About,,
 About,/about.html,About
-Exhibition Narrative,/exhibition_narrative.html,About
+Exhibition Narrative,/ExhibitionNarrative.html,About
 Section 1: Hide,/section1.html,About
 Section 2: Reveal,/section2.html,About
 Subjects,/subjects.html,
