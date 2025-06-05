@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://Art-History-Department-Kenyon.github.io
+url: https://DaniEKC.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /Unboxing-EMLA
 # location of code, the full url to your github repository
-source-code: https://github.com/Art-History-Department-Kenyon/Unboxing-EMLA
+source-code: https://github.com/DaniEKC/Unboxing-EMLA
 
 ##########
 # SITE SETTINGS
@@ -27,7 +27,7 @@ description: "Unboxing Latin America considers art objects from early modern Lat
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Latin America; early modern; colonial; material culture; decorative arts; box
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Art-History-Department-Kenyon
+author: DaniEKC
 
 ##########`
 # COLLECTION SETTINGS
